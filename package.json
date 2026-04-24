@@ -1,0 +1,11 @@
+{
+  "name": "aurorian-craft",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "a.j.r._.uribe",
+  "license": "ISC",
+  "description": "Add-on c:"
+}
