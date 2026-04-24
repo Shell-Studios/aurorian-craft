@@ -13,7 +13,9 @@
   - [ ] Bamboo
     - [ ] Planks
     - [ ] Mosaic
+> [!WARNING]
+> Bamboo Missing
 
 - [ ] Walls
-    > [!NOTE]
-    > This blocks use a recycled texture
+> [!NOTE]
+> Walls use a recycled texture
