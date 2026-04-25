@@ -1,0 +1,280 @@
+{
+  "texture_name": "atlas.terrain",
+  "resource_pack_name": "AurorianCraft",
+  "num_mip_levels": 4,
+  "padding": 8,
+  "texture_data": {
+    "acacia_log_side": {
+      "textures": "textures/blocks/logs/acacia"
+    },
+    "acacia_log_top": {
+      "textures": "textures/blocks/logs/acacia_top"
+    },
+    "acacia_log_bottom": {
+      "textures": "textures/blocks/logs/acacia_bottom"
+    },
+    "acacia_wood": {
+      "textures": "textures/blocks/logs/acacia"
+    },
+    "birch_log_side": {
+      "textures": "textures/blocks/logs/birch"
+    },
+    "birch_log_top": {
+      "textures": "textures/blocks/logs/birch_top"
+    },
+    "birch_log_bottom": {
+      "textures": "textures/blocks/logs/birch_bottom"
+    },
+    "birch_wood": {
+      "textures": "textures/blocks/logs/birch"
+    },
+    "cherry_log_side": {
+      "textures": "textures/blocks/logs/cherry"
+    },
+    "cherry_log_top": {
+      "textures": "textures/blocks/logs/cherry_top"
+    },
+    "cherry_log_bottom": {
+      "textures": "textures/blocks/logs/cherry_bottom"
+    },
+    "crimson_log_side": {
+      "textures": "textures/blocks/logs/crimson"
+    },
+    "crimson_log_top": {
+      "textures": "textures/blocks/logs/crimson_top"
+    },
+    "crimson_log_bottom": {
+      "textures": "textures/blocks/logs/crimson_bottom"
+    },
+    "dark_oak_log_side": {
+      "textures": "textures/blocks/logs/big_oak"
+    },
+    "dark_oak_log_top": {
+      "textures": "textures/blocks/logs/big_oak_top"
+    },
+    "dark_oak_log_bottom": {
+      "textures": "textures/blocks/logs/big_oak_bottom"
+    },
+    "dark_oak_wood": {
+      "textures": "textures/blocks/logs/big_oak"
+    },
+    "jungle_log_side": {
+      "textures": "textures/blocks/logs/jungle"
+    },
+    "jungle_log_top": {
+      "textures": "textures/blocks/logs/jungle_top"
+    },
+    "jungle_log_bottom": {
+      "textures": "textures/blocks/logs/jungle_bottom"
+    },
+    "jungle_wood": {
+      "textures": "textures/blocks/logs/jungle"
+    },
+    "mangrove_log_side": {
+      "textures": "textures/blocks/logs/mangrove"
+    },
+    "mangrove_log_top": {
+      "textures": "textures/blocks/logs/mangrove_top"
+    },
+    "mangrove_log_bottom": {
+      "textures": "textures/blocks/logs/mangrove_bottom"
+    },
+    "oak_log_side": {
+      "textures": "textures/blocks/logs/oak"
+    },
+    "oak_log_top": {
+      "textures": "textures/blocks/logs/oak_top"
+    },
+    "oak_log_bottom": {
+      "textures": "textures/blocks/logs/oak_bottom"
+    },
+    "oak_wood": {
+      "textures": "textures/blocks/logs/oak"
+    },
+    "pale_oak_log_side": {
+      "textures": "textures/blocks/logs/pale_oak"
+    },
+    "pale_oak_log_top": {
+      "textures": "textures/blocks/logs/pale_oak_top"
+    },
+    "pale_oak_log_bottom": {
+      "textures": "textures/blocks/logs/pale_oak_bottom"
+    },
+    "spruce_log_side": {
+      "textures": "textures/blocks/logs/spruce"
+    },
+    "spruce_log_top": {
+      "textures": "textures/blocks/logs/spruce_top"
+    },
+    "spruce_log_bottom": {
+      "textures": "textures/blocks/logs/spruce_bottom"
+    },
+    "spruce_wood": {
+      "textures": "textures/blocks/logs/spruce"
+    },
+    "stripped_acacia_log_side": {
+      "textures": "textures/blocks/logs/stripped_acacia"
+    },
+    "stripped_acacia_log_top": {
+      "textures": "textures/blocks/logs/stripped_acacia_top"
+    },
+    "stripped_acacia_log_bottom": {
+      "textures": "textures/blocks/logs/stripped_acacia_bottom"
+    },
+    "stripped_acacia_wood": {
+      "textures": "textures/blocks/logs/stripped_acacia"
+    },
+    "stripped_birch_log_side": {
+      "textures": "textures/blocks/logs/stripped_birch"
+    },
+    "stripped_birch_log_top": {
+      "textures": "textures/blocks/logs/stripped_birch_top"
+    },
+    "stripped_birch_log_bottom": {
+      "textures": "textures/blocks/logs/stripped_birch_bottom"
+    },
+    "stripped_birch_wood": {
+      "textures": "textures/blocks/logs/stripped_birch"
+    },
+    "stripped_cherry_log_side": {
+      "textures": "textures/blocks/logs/stripped_cherry"
+    },
+    "stripped_cherry_log_top": {
+      "textures": "textures/blocks/logs/stripped_cherry_top"
+    },
+    "stripped_cherry_log_bottom": {
+      "textures": "textures/blocks/logs/stripped_cherry_bottom"
+    },
+    "stripped_crimson_stem_side": {
+      "textures": "textures/blocks/logs/stripped_crimson"
+    },
+    "stripped_crimson_stem_top": {
+      "textures": "textures/blocks/logs/stripped_crimson_top"
+    },
+    "stripped_crimson_stem_bottom": {
+      "textures": "textures/blocks/logs/stripped_crimson_bottom"
+    },
+    "stripped_dark_oak_log_side": {
+      "textures": "textures/blocks/logs/stripped_dark_oak"
+    },
+    "stripped_dark_oak_log_top": {
+      "textures": "textures/blocks/logs/stripped_dark_oak_top"
+    },
+    "stripped_dark_oak_log_bottom": {
+      "textures": "textures/blocks/logs/stripped_dark_oak_bottom"
+    },
+    "stripped_dark_oak_wood": {
+      "textures": "textures/blocks/logs/stripped_dark_oak"
+    },
+    "stripped_jungle_log_side": {
+      "textures": "textures/blocks/logs/stripped_jungle"
+    },
+    "stripped_jungle_log_top": {
+      "textures": "textures/blocks/logs/stripped_jungle_top"
+    },
+    "stripped_jungle_log_bottom": {
+      "textures": "textures/blocks/logs/stripped_jungle_bottom"
+    },
+    "stripped_jungle_wood": {
+      "textures": "textures/blocks/logs/stripped_jungle"
+    },
+    "stripped_mangrove_log_side": {
+      "textures": "textures/blocks/logs/stripped_mangrove"
+    },
+    "stripped_mangrove_log_top": {
+      "textures": "textures/blocks/logs/stripped_mangrove_top"
+    },
+    "stripped_mangrove_log_bottom": {
+      "textures": "textures/blocks/logs/stripped_mangrove_bottom"
+    },
+    "stripped_oak_log_side": {
+      "textures": "textures/blocks/logs/stripped_oak"
+    },
+    "stripped_oak_log_top": {
+      "textures": "textures/blocks/logs/stripped_oak_top"
+    },
+    "stripped_oak_log_bottom": {
+      "textures": "textures/blocks/logs/stripped_oak_bottom"
+    },
+    "stripped_oak_wood": {
+      "textures": "textures/blocks/logs/stripped_oak"
+    },
+    "stripped_pale_oak_log_side": {
+      "textures": "textures/blocks/logs/stripped_pale_oak"
+    },
+    "stripped_pale_oak_log_top": {
+      "textures": "textures/blocks/logs/stripped_pale_oak_top"
+    },
+    "stripped_pale_oak_log_bottom": {
+      "textures": "textures/blocks/logs/stripped_pale_oak_bottom"
+    },
+    "stripped_spruce_log_side": {
+      "textures": "textures/blocks/logs/stripped_spruce"
+    },
+    "stripped_spruce_log_top": {
+      "textures": "textures/blocks/logs/stripped_spruce_top"
+    },
+    "stripped_spruce_log_bottom": {
+      "textures": "textures/blocks/logs/stripped_spruce_bottom"
+    },
+    "stripped_spruce_wood": {
+      "textures": "textures/blocks/logs/stripped_spruce"
+    },
+    "stripped_warped_stem_side": {
+      "textures": "textures/blocks/logs/stripped_warped"
+    },
+    "stripped_warped_stem_top": {
+      "textures": "textures/blocks/logs/stripped_warped_top"
+    },
+    "stripped_warped_stem_bottom": {
+      "textures": "textures/blocks/logs/stripped_warped_bottom"
+    },
+    "warped_stem_side": {
+      "textures": "textures/blocks/logs/warped"
+    },
+    "warped_stem_top": {
+      "textures": "textures/blocks/logs/warped_top"
+    },
+    "warped_stem_bottom": {
+      "textures": "textures/blocks/logs/warped_bottom"
+    },
+
+
+    "acacia_planks": {
+      "textures": "textures/blocks/planks/acacia"
+    },
+    "bamboo_planks": {
+      "textures": "textures/blocks/planks/bamboo"
+    },
+    "birch_planks": {
+      "textures": "textures/blocks/planks/birch"
+    },
+    "cherry_planks": {
+      "textures": "textures/blocks/planks/cherry"
+    },
+    "crimson_planks": {
+      "textures": "textures/blocks/planks/crimson"
+    },
+    "dark_oak_planks": {
+      "textures": "textures/blocks/planks/big_oak"
+    },
+    "jungle_planks": {
+      "textures": "textures/blocks/planks/jungle"
+    },
+    "mangrove_planks": {
+      "textures": "textures/blocks/planks/mangrove"
+    },
+    "oak_planks": {
+      "textures": "textures/blocks/planks/oak"
+    },
+    "pale_oak_planks": {
+      "textures": "textures/blocks/planks/pale_oak"
+    },
+    "spruce_planks": {
+      "textures": "textures/blocks/planks/spruce"
+    },
+    "warped_planks": {
+      "textures": "textures/blocks/planks/warped"
+    }
+  }
+}
